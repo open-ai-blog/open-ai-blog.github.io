@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>Hexo项目在Github上配置域名</title>
+      <link href="/domain-name-on-github-20240319/"/>
+      <url>/domain-name-on-github-20240319/</url>
+      
+        <content type="html"><![CDATA[<h2 id="Hexo项目在Github上配置域名"><a href="#Hexo项目在Github上配置域名" class="headerlink" title="Hexo项目在Github上配置域名"></a>Hexo项目在Github上配置域名</h2><h3 id="一、Hexo项目部署到Github"><a href="#一、Hexo项目部署到Github" class="headerlink" title="一、Hexo项目部署到Github"></a>一、Hexo项目部署到Github</h3><p>首先要确保你的hexo项目已经部署到github上，如果不知道hexo项目如何部署到github上，请看另一篇文章↓</p><p><a href="https://www.laodengai.com/hexo-butterfly-github-blog-20240318/">Hexo+Butterfly 主题 + Github 搭建博客 | 老登 AI (laodengai.com)</a></p><p>如果你的<strong>hexo项目已经搭建好</strong>，可直接跳转到<strong>目录五，看部署到Github</strong>的步骤。</p><h3 id="二、解析域名到GitHub-Pages"><a href="#二、解析域名到GitHub-Pages" class="headerlink" title="二、解析域名到GitHub Pages"></a>二、解析域名到GitHub Pages</h3><h4 id="1：首先购买或注册一个域名"><a href="#1：首先购买或注册一个域名" class="headerlink" title="1：首先购买或注册一个域名"></a>1：首先购买或注册一个域名</h4><p>购买域名的渠道有很多，可以国内，也可以国外，本人是在国外的Namecheap平台上买的，具体购买步骤可以看另一篇文章↓</p><p><a href="https://www.laodengai.com/buy-domain-name-on-Namecheap-20240318/">如何在 Namecheap 上购买域名 | 老登 AI (laodengai.com)</a></p><h4 id="2：解析域名到Github"><a href="#2：解析域名到Github" class="headerlink" title="2：解析域名到Github"></a>2：解析域名到Github</h4><p>首先登录你域名注册商的控制面板，这里以Namecheap为例</p><p>打开<strong>控制面板</strong></p><p><img src="https://open-ai-blog.oss-cn-nanjing.aliyuncs.com/img/202403190028094.png" alt="image-20240319002803003"></p><p>接着<strong>打开DNS配置页面</strong></p><p><img src="https://open-ai-blog.oss-cn-nanjing.aliyuncs.com/img/202403190029043.png" alt="image-20240319002924980"></p><p>接着<strong>添加以下几条解析</strong></p><p><img src="https://open-ai-blog.oss-cn-nanjing.aliyuncs.com/img/202403190044830.png" alt="image-20240319004434777"></p><p>上面几条IP地址是从Github官网上得来的，具体可以查看这个地址<a href="https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#configuring-an-apex-domain">Managing a custom domain for your GitHub Pages site - GitHub Docs</a></p><p>至此，域名注册服务商上的github pages域名解析我们就完成了！</p><h3 id="三、配置Hexo项目"><a href="#三、配置Hexo项目" class="headerlink" title="三、配置Hexo项目"></a>三、配置Hexo项目</h3><p>在你的hexo项目的<strong>source</strong>文件夹里添加一个<strong>CNAME</strong>文件（不带任何后缀的文件）</p><p><img src="https://open-ai-blog.oss-cn-nanjing.aliyuncs.com/img/202403190048450.png" alt="image-20240319004806404"></p><p>里面的内容是你的<strong>域名</strong></p><p><img src="https://open-ai-blog.oss-cn-nanjing.aliyuncs.com/img/202403190047389.png" alt="image-20240319004719353"></p><p>然后打开我们hexo项目的配置文件 <strong>_config.yml</strong> ，找到<strong>url配置项</strong>，替换成我们的域名就可以了</p><p><img src="https://open-ai-blog.oss-cn-nanjing.aliyuncs.com/img/202403190101424.png" alt="image-20240319010130384"></p><h3 id="四、配置Github-Pages"><a href="#四、配置Github-Pages" class="headerlink" title="四、配置Github Pages"></a>四、配置Github Pages</h3><p>打开我们的hexo项目在github上的仓库，进入设置页面</p><p><img src="https://open-ai-blog.oss-cn-nanjing.aliyuncs.com/img/202403190050612.png" alt="image-20240319005047573"></p><p>找到<strong>Pages选项</strong>，填上我们的<strong>域名</strong>，勾选上<strong>强制打开HTTPS</strong></p><p><img src="https://open-ai-blog.oss-cn-nanjing.aliyuncs.com/img/202403190057668.png" alt="image-20240319005718608"></p><p>等DNS检查通过，稍微等一会，就可以用域名打开我们的Hexo部署在Github上的项目啦！</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 博客 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 域名 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>如何在Namecheap上购买域名</title>
       <link href="/buy-domain-name-on-Namecheap-20240318/"/>
       <url>/buy-domain-name-on-Namecheap-20240318/</url>
