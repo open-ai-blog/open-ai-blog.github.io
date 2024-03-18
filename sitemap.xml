@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.laodengai.com/hexo-butterfly-github-blog-20240318/</loc>
+    
+    <lastmod>2024-03-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.laodengai.com/baidu_verify_codeva-sEsdbEa2ii</loc>
     
     <lastmod>2024-03-16</lastmod>
@@ -12,15 +21,6 @@
   
   <url>
     <loc>https://www.laodengai.com/baidu_verify_codeva-LK1nVhhsdL</loc>
-    
-    <lastmod>2024-03-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.laodengai.com/how-register-chatgpt4-20240204/</loc>
     
     <lastmod>2024-03-15</lastmod>
     
@@ -64,10 +64,17 @@
   </url>
 
   
+  <url>
+    <loc>https://www.laodengai.com/tags/%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2024-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
-    <loc>https://www.laodengai.com/categories/chatgpt/</loc>
+    <loc>https://www.laodengai.com/categories/%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2024-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
