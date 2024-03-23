@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>马斯克开源Grok-1，OpenAI成&quot;CloseAI&quot;？开源Grok真的意义重大吗？</title>
+      <link href="/grok-open-source-20240323/"/>
+      <url>/grok-open-source-20240323/</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://open-ai-blog.oss-cn-nanjing.aliyuncs.com/img/202403231800690.jpeg" alt="img"></p><p>埃隆·马斯克（就是那个造火箭的，还有特斯拉）旗下的人工智能初创公司xAI的大模型Grok已经开源，这也意味着，所有人都可以查看其代码并对其加以利用。</p><p>截止到现在开源的Grok已经揽获了<strong>43.1k</strong>的星标，而且还在不断地上升！</p><p><img src="https://open-ai-blog.oss-cn-nanjing.aliyuncs.com/img/202403231834292.png" alt="image-20240323183459228"></p><p>Grok拥有<strong>3140亿</strong>参数，远超OpenAI <strong>GPT-3.5</strong>的<strong>1750亿</strong>，是迄今为止参数量最大的开源大语言模型，是一款仿照《银河系漫游指南》设计的AI，几乎可以回答任何问题，它甚至可以建议要问什么问题。</p><p>虽然Grok模型开发出来时间还不久，应该还处于针对用户的测试版本，在基准测试中，Grok显示出了强劲的性能，超过了其计算类中的所有其他模型，包括 ChatGPT-3.5 和 Inflection-1，但是还是超越不了GPT4.0。（如果你想升级GPT4.0，可以看这篇文章：<a href="https://www.laodengai.com/upgrade-chatgpt4.0-by-wildcard-20240320/">GPT4.0 如何升级？使用 WildCard 虚拟信用卡开通升级 ChatGPT4.0 教程</a>）</p><p>xAI正式宣布开源的当天，马斯克还在社交媒体上讽刺OpenAI称，“告诉我们OpenAI到底Open（开源）在哪里了”。</p><p><img src="https://open-ai-blog.oss-cn-nanjing.aliyuncs.com/img/202403231853657.jpeg" alt="img"></p><p>难道OpenAI真的是“CloseAI”吗？</p><p>我认为不是这样的。</p><p>首先我们可以冷静下来想一想马斯克开源Grok。这一举动，能够使更多的开发者共同参与到大模型的改进和优化，可以很快地推进技术进步，而且能够实现知识共享，让很多人学习和理解模型的设计和实验方法。只是我们普通人没法体验Grok了，因为想要试试grok-1的话，你得有8张80GB显存的电脑（按照去年的行情来说这种显卡差不多要10w一张）。</p><p>但是，开源软件的源代码是公开的，这也为黑客提供了更多的攻击面。可能会被人利用开发很多能造成恶劣影响的人工智能工具，比如制造散布错误信息、虚假信息对人们产生错误的引导。</p><p>这是一把<strong>双刃剑</strong>。</p><p>我们不对马斯克或者xAI带有什么偏见，只是个人感觉这次Grok的开源，更像是一场商业上的行为。</p><p>OpenAI从一开始就没有进行开源，并且还在不断地优化更新中，所带来的变革我们也是有目共睹的。</p><p>但是，同时Grok也是搞了将近一年，发现进度远远赶不上OpenAI，Google等，甚至xAI也不如国外第一梯队的大模型创业公司。然后（小人之心一下）马斯克看搞大模型太烧钱了，还赶不上别人的进度，同时他也不希望OpenAI能挣到钱，所以才十分仓促的开源了Grok。不知道开源Grok只是为了在半场退场之前博取名声，同时又倒逼一把OpenAI开源。（本着开源的精神，我都已经开源了，你OpenAI也应该开源，不然不就Close了么？）</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> OpenAI </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 开源 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>OnlyFans如何搜索博主，搜索不到怎么办？</title>
       <link href="/how-to-search-on-onlyfans-20240322/"/>
       <url>/how-to-search-on-onlyfans-20240322/</url>
