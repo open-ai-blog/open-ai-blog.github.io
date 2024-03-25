@@ -171,7 +171,7 @@
   </url>
   
   <url>
-    <loc>https://www.laodengai.com/tags/ChatGPT/</loc>
+    <loc>https://www.laodengai.com/tags/%E5%BC%80%E6%BA%90/</loc>
     <lastmod>2024-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -185,14 +185,7 @@
   </url>
   
   <url>
-    <loc>https://www.laodengai.com/tags/OnlyFans%E6%90%9C%E7%B4%A2/</loc>
-    <lastmod>2024-03-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.laodengai.com/tags/%E5%BC%80%E6%BA%90/</loc>
+    <loc>https://www.laodengai.com/tags/ChatGPT/</loc>
     <lastmod>2024-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -200,6 +193,13 @@
   
   <url>
     <loc>https://www.laodengai.com/tags/Midjourney/</loc>
+    <lastmod>2024-03-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.laodengai.com/tags/OnlyFans%E6%90%9C%E7%B4%A2/</loc>
     <lastmod>2024-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -250,6 +250,13 @@
   </url>
   
   <url>
+    <loc>https://www.laodengai.com/categories/OpenAI/</loc>
+    <lastmod>2024-03-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.laodengai.com/categories/ChatGPT/</loc>
     <lastmod>2024-03-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -258,13 +265,6 @@
   
   <url>
     <loc>https://www.laodengai.com/categories/OnlyFans/</loc>
-    <lastmod>2024-03-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.laodengai.com/categories/OpenAI/</loc>
     <lastmod>2024-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
