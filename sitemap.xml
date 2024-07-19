@@ -287,14 +287,14 @@
   </url>
   
   <url>
-    <loc>https://www.laodengai.com/tags/Claude3/</loc>
+    <loc>https://www.laodengai.com/tags/Midjourney/</loc>
     <lastmod>2024-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.laodengai.com/tags/Midjourney/</loc>
+    <loc>https://www.laodengai.com/tags/Claude3/</loc>
     <lastmod>2024-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -315,13 +315,6 @@
   </url>
   
   <url>
-    <loc>https://www.laodengai.com/tags/proton/</loc>
-    <lastmod>2024-07-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.laodengai.com/tags/OnlyFans%E8%AE%A2%E9%98%85/</loc>
     <lastmod>2024-07-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -329,14 +322,21 @@
   </url>
   
   <url>
-    <loc>https://www.laodengai.com/tags/Copilot/</loc>
+    <loc>https://www.laodengai.com/tags/%E5%8D%87%E7%BA%A7ChatGPT4-0/</loc>
     <lastmod>2024-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.laodengai.com/tags/%E5%8D%87%E7%BA%A7ChatGPT4-0/</loc>
+    <loc>https://www.laodengai.com/tags/proton/</loc>
+    <lastmod>2024-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.laodengai.com/tags/Copilot/</loc>
     <lastmod>2024-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
