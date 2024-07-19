@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>FOMEPay充值教程</title>
+      <link href="/fomepay-recharge-20240719/"/>
+      <url>/fomepay-recharge-20240719/</url>
+      
+        <content type="html"><![CDATA[<p>FOMEPay是一个提供虚拟信用卡服务的平台，可以通过手机号或邮箱进行注册，具体的注册教程可以看这篇文章：<a href="https://www.laodengai.com/how-to-register-fomepay-20240718/">【保姆级教程】FOMEPay 详细注册指南</a></p><p>，也可以直接点击：<a href="https://gpt.fomepay.com/#/pages/login/index?d=GJSCWC">FOMEPay官网注册链接</a>，进行注册。</p><p>和实体卡一样，它也有cvv、名称、地址、卡号等等，可以用来购买各种服务，使用起来和实体信用卡是相同的。</p><p>FOMEPay充值方式有多种，可以支持CNY人民币充值，也可以支持USDT虚拟币充值。</p><p><strong>人民币如何充值？</strong></p><p>1：打开Fomepay ，点击底部导航栏的钱包，然后点击最上面的USD</p><p><img src="https://open-ai-blog.oss-cn-nanjing.aliyuncs.com/img/202407192102415.png" alt="image-20240719210229313"></p><p>2：然后点击充值</p><p><img src="https://open-ai-blog.oss-cn-nanjing.aliyuncs.com/img/202407192103116.png" alt="image-20240719210311070"></p><p>3：然后选择CNY充值，选择需要充值的金额，接着用支付宝&#x2F;微信扫码充值即可</p><p><img src="https://open-ai-blog.oss-cn-nanjing.aliyuncs.com/img/202407192104871.png" alt="image-20240719210402783"></p><p><img src="https://open-ai-blog.oss-cn-nanjing.aliyuncs.com/img/202407192104376.png" alt="image-20240719210457319"></p><p><strong>USDT如何充值？</strong></p><p>在充值界面我们选择USDT充值，选择要充值的金额后，复制TRC20地址，然后去提币即可完成充值。充值后USD即可到账(平均到账时间为60秒)到账后，再点击【充值】，即可将钱包内USD充值进Visa&#x2F;Master</p><p><img src="https://open-ai-blog.oss-cn-nanjing.aliyuncs.com/img/202407192107559.png" alt="image-20240719210740524"></p><p><img src="https://open-ai-blog.oss-cn-nanjing.aliyuncs.com/img/202407192108721.png" alt="image-20240719210804692"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> OpenAI </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 虚拟信用卡 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>【保姆级教程】FOMEPay是什么？FOMEPay详细注册指南</title>
       <link href="/how-to-register-fomepay-20240718/"/>
       <url>/how-to-register-fomepay-20240718/</url>
