@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.laodengai.com/how-to-register-fomepay-20240718/</loc>
+    
+    <lastmod>2024-07-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.laodengai.com/fomepay-recharge-20240719/</loc>
     
     <lastmod>2024-07-19</lastmod>
@@ -12,15 +21,6 @@
   
   <url>
     <loc>https://www.laodengai.com/upgrade-gpt4.0-by-fomepay-20240718/</loc>
-    
-    <lastmod>2024-07-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.laodengai.com/how-to-register-fomepay-20240718/</loc>
     
     <lastmod>2024-07-19</lastmod>
     
@@ -266,13 +266,6 @@
   </url>
   
   <url>
-    <loc>https://www.laodengai.com/tags/%E8%99%9A%E6%8B%9F%E4%BF%A1%E7%94%A8%E5%8D%A1/</loc>
-    <lastmod>2024-07-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.laodengai.com/tags/%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2024-07-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -281,6 +274,13 @@
   
   <url>
     <loc>https://www.laodengai.com/tags/%E8%B0%B7%E6%AD%8Cgmail/</loc>
+    <lastmod>2024-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.laodengai.com/tags/%E8%99%9A%E6%8B%9F%E4%BF%A1%E7%94%A8%E5%8D%A1/</loc>
     <lastmod>2024-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -336,14 +336,14 @@
   </url>
   
   <url>
-    <loc>https://www.laodengai.com/tags/Copilot/</loc>
+    <loc>https://www.laodengai.com/tags/vpn%E6%A2%AF%E5%AD%90/</loc>
     <lastmod>2024-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.laodengai.com/tags/vpn%E6%A2%AF%E5%AD%90/</loc>
+    <loc>https://www.laodengai.com/tags/Copilot/</loc>
     <lastmod>2024-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
