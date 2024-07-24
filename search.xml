@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>ChatGPT Plus续费失败的原因及解决办法</title>
+      <link href="/subscribe-gpt-plus-fail/"/>
+      <url>/subscribe-gpt-plus-fail/</url>
+      
+        <content type="html"><![CDATA[<p>有部分网友反馈 <a href="https://www.laodengai.com/upgrade-gpt4.0-by-fomepay-20240718/">ChatGPT Plus</a> 自动续费失败的问题，但其他使用相同卡的网友却能够成功续费。对于这种情况，我总结了下可能的原因，希望这些总结能够为遇到 ChatGPT Plus 续费失败的用户提供参考。</p><h3 id="1：首先检查信用卡是否过期"><a href="#1：首先检查信用卡是否过期" class="headerlink" title="1：首先检查信用卡是否过期"></a>1：首先检查<a href="https://gpt.fomepay.com/#/pages/login/index?d=GJSCWC">信用卡</a>是否过期</h3><p>很多信用卡服务商提供的虚拟信用卡都是有有效期的，一般是两年或者三年，快到期的时候，是需要换卡或者重新开卡的。（如果你没有国外信用卡，或者需要换卡了，可以看下这篇文章：<a href="https://www.laodengai.com/how-to-register-fomepay-20240718/">【保姆级教程】FOMEPay 是什么？FOMEPay 详细注册指南</a>，这个信用卡有效期为3年，且支持免费换卡，并且最低充值金额仅为5美元！）。</p><p>换了卡之后，重新去开通或者续费Plus就可以了。</p><h3 id="2：检查信用卡余额是否充足"><a href="#2：检查信用卡余额是否充足" class="headerlink" title="2：检查信用卡余额是否充足"></a>2：检查信用卡余额是否充足</h3><p>**注意是检查信用卡的余额，不是你开卡平台的<a href="https://gpt.fomepay.com/#/pages/login/index?d=GJSCWC">账户余额</a>**，很多人可能搞混了这个。</p><p>比如，你用的<a href="https://gpt.fomepay.com/#/pages/login/index?d=GJSCWC">FOMEPay信用卡</a>，你要到卡中心，看对应的卡片的余额是否充足，而不是看钱包里面的平台余额</p><p><img src="https://open-ai-blog.oss-cn-nanjing.aliyuncs.com/img/202407242159558.png" alt="image-20240724215915409"></p><p><img src="https://open-ai-blog.oss-cn-nanjing.aliyuncs.com/img/202407242201066.png" alt="image-20240724220151980"></p><h3 id="3：拒付的影响"><a href="#3：拒付的影响" class="headerlink" title="3：拒付的影响"></a>3：拒付的影响</h3><p>当你卡片余额不足，ChatGPT Plus会出现自动扣款失败，这样就会产生拒付行为，多次拒付可能影响你信用卡的信誉。</p><p>如果情节严重，会直接封禁你的信用卡账号，所以尽量不要产生拒付行为，如果不再打算继订阅ChatGPT Plus，可以取消。</p><h3 id="4：信用卡余额充足但扣款失败"><a href="#4：信用卡余额充足但扣款失败" class="headerlink" title="4：信用卡余额充足但扣款失败"></a>4：信用卡余额充足但扣款失败</h3><p>如果您已经检查信用卡余额充足，但依然扣款失败了，不要惊慌。</p><p>先点添加支付方式，添加一个国内信用卡，这时依然会提示你支付方式被拒，先不要管它。</p><p><img src="https://open-ai-blog.oss-cn-nanjing.aliyuncs.com/img/202407242229305.png" alt="image-20240724222959263"></p><p>然后返回到支付界面，可能会出现一个“支付失败的金额”，这样就可以手动再次发起付款了。</p><p><img src="https://open-ai-blog.oss-cn-nanjing.aliyuncs.com/img/202407242230632.png" alt="image-20240724223047593"></p><p>如果点“支付失败的金额”依然失败了，大概率是和你的网络环境等因素有关，被风控了。这时你还可以尝试下面的办法继续按照上面步骤尝试。</p><ol><li>浏览器使用无痕模式 + 全局代理 + 更换代理IP</li><li>更换你的上网设备，比如尝试更换手机操作</li><li>尝试更换你的ChatGPT Plus账单地址再继续</li></ol><h4 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h4><p>1.首先检查<a href="https://gpt.fomepay.com/#/pages/login/index?d=GJSCWC">信用卡</a>是否过期</p><p>2.检查信用卡余额是否充足</p><p>3.信用卡余额充足但扣款失败的情况，建议用户尝试添加国内信用卡、手动再次发起付款以及使用无痕模式、更换上网设备或尝试更换账单地址等方式解决问题。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> OpenAI </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> ChatGPT </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>ChatGPT如何开启使用GPT-4o mini？</title>
       <link href="/use-gpt-4o-mini/"/>
       <url>/use-gpt-4o-mini/</url>
