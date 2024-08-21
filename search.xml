@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>MidJourney付费失败的原因以及失败后如何取消或续订（文末附MidJourney，GPT4o订阅教程）</title>
+      <link href="/midjourney-payment-failure-reasons-and-solutions/"/>
+      <url>/midjourney-payment-failure-reasons-and-solutions/</url>
+      
+        <content type="html"><![CDATA[<h2 id="MidJourney付费失败的原因"><a href="#MidJourney付费失败的原因" class="headerlink" title="MidJourney付费失败的原因"></a>MidJourney付费失败的原因</h2><p><strong>MidJourney付费失败的原因可能包括支付方式无效、支付信息错误、网络问题、账户设置问题等。</strong>‌</p><ul><li>‌<strong>支付方式无效或信息错误</strong>‌：如果用户提供的支付方式（如信用卡）信息不正确，或者支付方式本身不支持该地区的交易，会导致支付失败。例如，用户可能需要检查填入的信用卡信息是否准确，包括卡号、有效期、CVV等‌。</li><li>‌<strong>网络问题</strong>‌：网络不稳定或使用的支付节点不适合当前交易，也可能导致支付失败。解决这一问题可能需要更换支付节点或尝试使用不同的网络环境‌（魔法的问题，这个不详细说明）。</li><li>‌<strong>账户设置问题</strong>‌：如果用户没有正确设置账户以支持连续订阅，可能会导致续费失败。例如，如果你打算为他人代充，需要确保取消连续订阅设置，以避免连续扣费‌。</li><li>‌<strong>地区限制</strong>‌：当前的支付方式可能不支持地区的交易，或者存在地区限制。在这种情况下，需要<a href="https://www.laodengai.com/register-wildcard/">开通虚拟信用卡</a>或使用其他支付方式来完成支付‌（比如让国外的朋友帮忙支付）。</li></ul><h2 id="MidJourney-付费失败后如何取消或续订"><a href="#MidJourney-付费失败后如何取消或续订" class="headerlink" title="MidJourney 付费失败后如何取消或续订"></a><strong>MidJourney 付费失败后如何取消或续订</strong></h2><h3 id="1：登陆-MidJourney-的-Stripe-页面"><a href="#1：登陆-MidJourney-的-Stripe-页面" class="headerlink" title="1：登陆 MidJourney 的 Stripe 页面"></a>1：登陆 <a href="https://billing.stripe.com/p/login/aEUdRA5Wc8t25a03cc">MidJourney 的 Stripe 页面</a></h3><p>输入你注册 discord 的邮箱。然后在邮箱里面接收一封 Stripe 的邮箱，点击登录就可以了。</p><p><img src="https://open-ai-blog.oss-cn-nanjing.aliyuncs.com/img/202408212213198.png" alt="image-20240821221340097"></p><h3 id="2：进入邮箱点击这封邮件里面的「登录」。"><a href="#2：进入邮箱点击这封邮件里面的「登录」。" class="headerlink" title="2：进入邮箱点击这封邮件里面的「登录」。"></a>2：进入邮箱点击这封邮件里面的「登录」。</h3><p><img src="https://open-ai-blog.oss-cn-nanjing.aliyuncs.com/img/202408212214570.png" alt="image-20240821221421487"></p><h3 id="3：取消方案"><a href="#3：取消方案" class="headerlink" title="3：取消方案"></a>3：取消方案</h3><p>进入 MidJourney 的 Stripe 页面后，点击「取消方案」可以取消订阅。</p><p><img src="https://open-ai-blog.oss-cn-nanjing.aliyuncs.com/img/202408212215393.png" alt="image-20240821221528264"></p><h3 id="4：续订MidJourney"><a href="#4：续订MidJourney" class="headerlink" title="4：续订MidJourney"></a>4：续订MidJourney</h3><p>1.如果你是卡被封或失效，在这里把旧日卡删除掉，加入新卡的信息。<a href="https://www.laodengai.com/register-wildcard/">注册新卡</a></p><p>2.如果你是卡里的余额不足，或之前不用故意没续，确保卡里余额充足后，拉到页面底部，找到账单记录（见下图），在最新的一个付款失败的条目左侧，找到那个打开账单的链接按钮，打开新页面，然后支付即可。</p><p><img src="https://open-ai-blog.oss-cn-nanjing.aliyuncs.com/img/202408212220332.png" alt="image-20240821222047282"></p><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>解决MidJourney付费失败的问题，可以尝试以下方法：</p><ol><li>检查并确保支付信息准确无误。</li><li>尝试更换支付节点或网络环境。</li><li>确保账户设置正确，特别是如果涉及为他人代充，需要取消连续订阅设置。</li><li>考虑使用<a href="https://www.laodengai.com/register-wildcard/">虚拟信用卡</a>或其他支持的支付方式完成支付。</li></ol><p>友情链接：<a href="https://www.laodengai.com/how-subscribe-use-midjourney-20240324/">订阅教程</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> OpenAI </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> MidJourney </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>详细保姆级教程：chatgpt4国内充值方式，如何利用chatgpt写文章，修改论文？只看这一篇就够了！</title>
       <link href="/chatgpt4-recharge-writing-articles-editing-papers/"/>
       <url>/chatgpt4-recharge-writing-articles-editing-papers/</url>
