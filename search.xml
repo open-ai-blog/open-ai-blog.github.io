@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>不花一分钱！GPT-4o微调限时免费开放，每日附赠百万训练token，开发者的低成本AI应用革命！【文末附MidJourney，GPT-4o教程】</title>
+      <link href="/gpt-4o-micro-tuning-tutorial-and-offer/"/>
+      <url>/gpt-4o-micro-tuning-tutorial-and-offer/</url>
+      
+        <content type="html"><![CDATA[<p>OpenAI的最新动态在技术界引起了一阵骚动，它宣布了GPT-4o模型的微调功能正式上线，并且附带了一项极具吸引力的福利：<strong>每个组织能够每天免费获得100万个训练token</strong>，直至9月23日。这意味着开发者们现在可以利用这一机会，以较低的成本使用自定义数据集对GPT-4o进行微调，进而构建和优化自己的应用程序。</p><h3 id="GPT-4o微调功能详解"><a href="#GPT-4o微调功能详解" class="headerlink" title="GPT-4o微调功能详解"></a>GPT-4o微调功能详解</h3><p>GPT-4o的微调功能是OpenAI提供的一项服务，允许开发者根据特定需求调整模型的行为。公告中提到的每100万token 25美元的训练成本，让开发者每天都能节省相当的开支（收到邮件的开发者们激动地奔走相告，这么大的羊毛一定要赶快薅！）。微调过程十分简便，用户只需访问微调仪表盘，选择相应的模型版本，即可开始微调过程。</p><p><img src="https://open-ai-blog.oss-cn-nanjing.aliyuncs.com/img/202408242339762.png" alt="image-20240824233944596"></p><h3 id="成功案例分析"><a href="#成功案例分析" class="headerlink" title="成功案例分析"></a>成功案例分析</h3><p><img src="https://open-ai-blog.oss-cn-nanjing.aliyuncs.com/img/202408242340662.png" alt="image-20240824234041622"></p><p>OpenAI还分享了两个成功的微调案例，展示了微调后的模型在实际应用中的卓越表现。</p><ol><li><p><strong>代码助手Genie</strong></p><ul><li><p>由AI初创公司Cosine开发的Genie，是一款专门为软件开发人员设计的代码助手。它通过使用数十亿个高质量数据对GPT-4o进行了训练和微调，覆盖了多种编程语言，包括JavaScript、Python、TypeScript等。</p></li><li><p>在OpenAI最新发布的代码能力基准测试SWE-Bench Verified上，Genie取得了43.8%的SOTA分数，这一成绩在SWE-Bench Full上的SOTA分数更是达到了30.08%，刷新了之前的纪录。</p><p><img src="https://open-ai-blog.oss-cn-nanjing.aliyuncs.com/img/202408242342727.png" alt="image-20240824234206675"></p></li></ul></li><li><p><strong>Distyl的文本到SQL模型</strong></p><ul><li><p>Distyl是一家为财富500强企业提供AI解决方案的公司。它的模型在领先的文本到SQL基准测试BIRD-SQL中排名第一，展现了71.83%的执行准确率，并在多个子任务中表现优异，特别是在SQL生成方面。</p><p><img src="https://open-ai-blog.oss-cn-nanjing.aliyuncs.com/img/202408242342160.png" alt="image-20240824234249104"></p></li></ul></li></ol><h3 id="数据隐私与安全"><a href="#数据隐私与安全" class="headerlink" title="数据隐私与安全"></a>数据隐私与安全</h3><p>OpenAI在公告中特别强调了数据隐私和安全的重要性。它承诺，开发者的业务数据不会被共享或用于训练其他模型，同时对微调模型实施了分层安全缓解措施，包括自动安全评估和使用情况监控。</p><p><img src="https://open-ai-blog.oss-cn-nanjing.aliyuncs.com/img/202408242344352.png" alt="image-20240824234401299"></p><h3 id="微调与提示词缓存的比较"><a href="#微调与提示词缓存的比较" class="headerlink" title="微调与提示词缓存的比较"></a>微调与提示词缓存的比较</h3><p>尽管微调功能备受瞩目，但一些网友认为它可能仍然比不上提示词缓存。提示词缓存允许模型一次性接收大量prompt并记住它们，以便在后续请求中直接复用，从而提高速度并降低成本。谷歌的Gemini和Claude等竞争对手已经支持了这项功能。</p><p>由于不需要反复输入重复的脚本，提示词缓存具有<strong>速度更快、成本更低</strong>这两大优势。</p><p>有网友认为，提示词缓存功能对开发者更友好（无需异步微调），且几乎可以获得与微调相同的好处。</p><h3 id="OpenAI的可能动向"><a href="#OpenAI的可能动向" class="headerlink" title="OpenAI的可能动向"></a>OpenAI的可能动向</h3><p>一些观察者注意到，OpenAI在其延迟优化指南中提到了缓存技术，尽管没有直接提及提示词缓存，但这可能意味着OpenAI正在考虑或已经采用了相关技术。</p><h3 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h3><p>无论如何，OpenAI的这一新举措为开发者提供了巨大的便利和节省成本的机会。无论是选择微调还是利用提示词缓存，开发者们都有机会利用这些先进的技术来推动自己的项目向前发展。随着9月23日的临近，开发者们正摩拳擦掌，准备充分利用这一机会，探索AI的无限可能。</p><p>友情链接：<a href="https://www.laodengai.com/how-subscribe-use-midjourney-20240324/">MidJourney教程</a><br><a href="https://www.laodengai.com/upgrade-chatgpt4.0/">GPT-4o教程</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> OpenAI </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Chatgpt </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>MidJourney付费失败的原因以及失败后如何取消或续订（文末附MidJourney，GPT4o订阅教程）</title>
       <link href="/midjourney-payment-failure-reasons-and-solutions/"/>
       <url>/midjourney-payment-failure-reasons-and-solutions/</url>
