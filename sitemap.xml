@@ -360,14 +360,14 @@
   </url>
   
   <url>
-    <loc>https://www.laodengai.com/tags/Chatgpt/</loc>
+    <loc>https://www.laodengai.com/tags/ChatGPT/</loc>
     <lastmod>2024-08-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.laodengai.com/tags/ChatGPT/</loc>
+    <loc>https://www.laodengai.com/tags/Chatgpt/</loc>
     <lastmod>2024-08-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -381,14 +381,14 @@
   </url>
   
   <url>
-    <loc>https://www.laodengai.com/tags/%E5%8D%9A%E5%AE%A2/</loc>
+    <loc>https://www.laodengai.com/tags/%E5%BC%80%E6%BA%90/</loc>
     <lastmod>2024-08-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.laodengai.com/tags/%E5%BC%80%E6%BA%90/</loc>
+    <loc>https://www.laodengai.com/tags/%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2024-08-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -451,13 +451,6 @@
   </url>
   
   <url>
-    <loc>https://www.laodengai.com/tags/WildCard/</loc>
-    <lastmod>2024-08-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.laodengai.com/tags/proton/</loc>
     <lastmod>2024-08-24</lastmod>
     <changefreq>weekly</changefreq>
@@ -465,7 +458,7 @@
   </url>
   
   <url>
-    <loc>https://www.laodengai.com/tags/Copilot/</loc>
+    <loc>https://www.laodengai.com/tags/WildCard/</loc>
     <lastmod>2024-08-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -473,6 +466,13 @@
   
   <url>
     <loc>https://www.laodengai.com/tags/Sora/</loc>
+    <lastmod>2024-08-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.laodengai.com/tags/Copilot/</loc>
     <lastmod>2024-08-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -509,14 +509,14 @@
   </url>
   
   <url>
-    <loc>https://www.laodengai.com/categories/OpenAI/</loc>
+    <loc>https://www.laodengai.com/categories/ChatGPT/</loc>
     <lastmod>2024-08-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.laodengai.com/categories/ChatGPT/</loc>
+    <loc>https://www.laodengai.com/categories/OpenAI/</loc>
     <lastmod>2024-08-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
