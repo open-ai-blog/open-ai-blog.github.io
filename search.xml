@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>编程要由“手动挡”变“自动挡”了？Cursor+Claude-3.5-Sonnet，Karpathy大神点赞的AI代码神器！如何使用详细教程</title>
+      <link href="/programming-ai-cursor-claude-sonnet-tutorial/"/>
+      <url>/programming-ai-cursor-claude-sonnet-tutorial/</url>
+      
+        <content type="html"><![CDATA[<table><thead><tr><th align="center">类别</th><th align="left">精选文章</th></tr></thead><tbody><tr><td align="center"><strong>虚拟信用卡</strong></td><td align="left"><a href="https://www.laodengai.com/register-wildcard/">虚拟信用卡 WildCard 官方详细注册流程</a> <strong>|</strong>  <a href="https://www.laodengai.com/how-to-use-wildcard-20240320/">【WildCard 是什么？可以为我们提供什么服务？虚拟信用卡及 WildCard 使用教程】</a></td></tr><tr><td align="center"><strong>ChatGPT</strong></td><td align="left"><a href="https://www.laodengai.com/upgrade-chatgpt4.0/">【最新】升级 ChatGPT4.0 教程！升级 gpt4 只看这一篇就够了！</a> <strong>|</strong><a href="https://www.laodengai.com/subscribe-gpt-plus-fail/">【推荐】ChatGPT Plus 续费失败的原因及解决办法</a></td></tr><tr><td align="center"><strong>OnlyFans</strong></td><td align="left"><a href="https://www.laodengai.com/how-to-search-on-onlyfans-20240322/">【推荐】OnlyFans 如何搜索博主</a> <strong>|</strong> <a href="https://www.laodengai.com/onlyfans-use-problem-20240325/">【推荐】OnlyFans 使用过程中出现年龄验证，地址错误，支付失败，账户验证等问题的解决方案</a></td></tr><tr><td align="center"><strong>Midjourney</strong></td><td align="left"><a href="https://www.laodengai.com/how-subscribe-use-midjourney-20240324/">Midjourney 如何订阅注册及使用基础教程</a> <strong>|</strong> <a href="https://www.laodengai.com/midjourney-payment-failure-reasons-and-solutions/">MidJourney 付费失败的原因以及失败后如何取消或续订</a></td></tr></tbody></table><h3 id="Cursor情况简介"><a href="#Cursor情况简介" class="headerlink" title="Cursor情况简介"></a>Cursor情况简介</h3><p>AI大神Andrej Karpathy都被震惊了！他最近在试用 VS Code Cursor +Claude Sonnet 3.5，结果发现这玩意儿比GitHub Copilot还好用！</p><p>Cursor在短短时间内迅速成为程序员群体的顶流神器，其背后的原因在于其默认使用OpenAI投资的Claude-3.5-Sonnet模型，这一举动不仅改变了代码生成领域的格局，也为程序员提供了前所未有的高效编程体验。</p><p><img src="https://open-ai-blog.oss-cn-nanjing.aliyuncs.com/img/202408302221384.png" alt="image-20240830222154167"></p><p>Karpathy大神说，现在他大部分时间都在写英语，也就是写提示，然后审查和编辑AI生成的代码。偶尔也会写一小段代码，加点注释告诉LLM他的思路，然后就疯狂按tab键，让AI自动补全。有时候，AI会一口气生成100多行代码，而且完全符合他的预期，这在以前至少要花10分钟才能写完！并表示这种做法能够带来纯粹的双赢（net win）。</p><p>最后，Karpathy 认为自己<strong>基本上无法再回到三年前那种「无辅助」编码的状态了</strong>。</p><p><img src="https://open-ai-blog.oss-cn-nanjing.aliyuncs.com/img/202408302224384.png" alt="image-20240830222442300"></p><p>有人对此表示，如今 AI 对工作流程的改变无疑是成功的，人们只需要学习和调整，过个一两周就可以起飞了。</p><p>有人翻出了 Karpathy 此前的发文，「最热门的新编程语言是英语」</p><p><img src="https://open-ai-blog.oss-cn-nanjing.aliyuncs.com/img/202408302225027.png" alt="image-20240830222544983"></p><p>知名机器学习和 AI 研究员、《Python 机器学习》作者 Sebastian Raschka 认为，AI 确实极大提高了工作效率，但自己还是喜欢无辅助的编码，就像驾驶手动挡一样。虽然不是最实用，但很有趣。</p><p><img src="https://open-ai-blog.oss-cn-nanjing.aliyuncs.com/img/202408302227412.png" alt="image-20240830222702378"></p><p>那么，我们要怎么才能体验使用呢？</p><h3 id="如何使用Cursor"><a href="#如何使用Cursor" class="headerlink" title="如何使用Cursor"></a>如何使用Cursor</h3><p>1.首先打开Cursor官方网站下载Cursor编辑器：cursor.com</p><p><img src="https://open-ai-blog.oss-cn-nanjing.aliyuncs.com/img/202408302229278.png" alt="image-20240830222921921"></p><p>下载好后点击运行进行安装，一路点Continue就可以</p><p><img src="https://open-ai-blog.oss-cn-nanjing.aliyuncs.com/img/202408302229515.png" alt="image-20240830222952471"></p><p>进去之后我们可以选择我们的编辑器，并安装cursor</p><p><img src="https://open-ai-blog.oss-cn-nanjing.aliyuncs.com/img/202408302230642.png" alt="image-20240830223039575"></p><p><img src="https://open-ai-blog.oss-cn-nanjing.aliyuncs.com/img/202408302230952.png" alt="image-20240830223051890"></p><p>然后我们进行登录，可以注册个谷歌账号进行登录</p><p><img src="https://open-ai-blog.oss-cn-nanjing.aliyuncs.com/img/202408302231617.png" alt="image-20240830223144558"></p><p><img src="https://open-ai-blog.oss-cn-nanjing.aliyuncs.com/img/202408302231876.png" alt="image-20240830223152791"></p><p>进去之后我们点击设置按钮，进行升级Pro版，来获得<strong>没有上限的快速高级使用权限</strong></p><p><img src="https://open-ai-blog.oss-cn-nanjing.aliyuncs.com/img/202408302232583.png" alt="image-20240830223219522"></p><p>然后我们会来到订阅支付界面，这里我推荐使用虚拟信用卡<a href="https://bewildcard.com/i/LAODENGAI">Wildcard</a>，点击可以打开<a href="https://bewildcard.com/i/LAODENGAI">官方网站</a>进行注册，具体的详细教程可以查看：<a href="https://www.laodengai.com/register-wildcard/">详细注册教程</a></p><p><img src="https://open-ai-blog.oss-cn-nanjing.aliyuncs.com/img/202408302233188.png" alt="image-20240830223344100"></p><p>完成后，把我们卡片的信息对应的填上去就可以支付了</p><p>之后我们点击设置后点Models，选claude-3.5-sonnet模型</p><p><img src="https://open-ai-blog.oss-cn-nanjing.aliyuncs.com/img/202408302237908.png" alt="image-20240830223707839"></p><p>然后我们就可以使用啦，大概得使用方式我们可以看官方首页的示例视频</p><p><img src="https://open-ai-blog.oss-cn-nanjing.aliyuncs.com/img/202408302239893.png" alt="image-20240830223946543"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> OpenAI </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Claude </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>ChatGPT到底是什么？发展历程和重要节点有哪些？使用它能给我们带来什么？怎么免费体验以及如何半价订阅使用？</title>
       <link href="/what-is-chatgpt-history-benefits-trial-subscription/"/>
       <url>/what-is-chatgpt-history-benefits-trial-subscription/</url>
