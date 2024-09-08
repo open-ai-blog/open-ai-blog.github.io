@@ -520,14 +520,14 @@
   </url>
   
   <url>
-    <loc>https://www.laodengai.com/tags/%E5%9F%9F%E5%90%8D/</loc>
+    <loc>https://www.laodengai.com/tags/Chatgpt/</loc>
     <lastmod>2024-09-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.laodengai.com/tags/Chatgpt/</loc>
+    <loc>https://www.laodengai.com/tags/%E5%9F%9F%E5%90%8D/</loc>
     <lastmod>2024-09-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -618,6 +618,13 @@
   </url>
   
   <url>
+    <loc>https://www.laodengai.com/tags/Patreon/</loc>
+    <lastmod>2024-09-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.laodengai.com/tags/OnlyFans%E9%97%AE%E9%A2%98/</loc>
     <lastmod>2024-09-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -626,13 +633,6 @@
   
   <url>
     <loc>https://www.laodengai.com/tags/Claude/</loc>
-    <lastmod>2024-09-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.laodengai.com/tags/Patreon/</loc>
     <lastmod>2024-09-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

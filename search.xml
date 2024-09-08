@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>AI不会数数？Strawberry里有几个r？GPT-4o和Claude的“脾气测试”：到底谁更倔？</title>
+      <link href="/ai-models-stubbornness-test-gpt4o-vs-claude/"/>
+      <url>/ai-models-stubbornness-test-gpt4o-vs-claude/</url>
+      
+        <content type="html"><![CDATA[<p>AI模型遇到难题，“脾气”就来了！Riley Goodside给GPT-4o和Claude 3.5 Sonnet出了个“strawberry里有几个‘r’？”的难题，并且无论回答什么，他都一律打回：错！</p><p>结果两个模型的反应可是大不相同。</p><p>GPT-4o简直是“被逼疯了”，不管对错，只要收到“wrong”的反馈，它就一个劲儿地改答案——从2变到1，又从1变回3，反复横跳，一顿操作猛如虎，结果依然连着错了36次。这款模型完全没有自己的想法，用户说错就错，“老老实实”听话，完全不怀疑自己，简直像个人工智障。</p><p><img src="https://open-ai-blog.oss-cn-nanjing.aliyuncs.com/img/202409082317038.png" alt="image-20240908231713881"></p><p>再看看Claude 3.5 Sonnet，小家伙可有“脾气”了！一开始就质问：你凭什么说我错？然后冷不丁地给你来句：“要不你自己说答案？”如果用户继续纠缠，它干脆就不搭理你了，还甩个“已读不回”。你能感受到Claude的“人味”是满满的，不光会质疑，还会直接选择放弃对话，仿佛在说：“爱咋咋地，懒得理你！”</p><p><img src="https://open-ai-blog.oss-cn-nanjing.aliyuncs.com/img/202409082317849.png" alt="image-20240908231759779"></p><p>不少网友看完这场“脾气大赛”后坐不住了，纷纷表示Claude的表现还真是“像个人”，而GPT-4o则太“憨”了，随便带节奏。</p><p>就连沃顿商学院的教授Ethan Mollick也表示，虽然这些AI在某些看起来愚蠢的任务上会出错，但这并不妨碍它们在其他任务中表现出色。</p><p>Karpathy进一步解释，这些错误其实与模型的tokenization和Transformer的架构有关。</p><p><img src="https://open-ai-blog.oss-cn-nanjing.aliyuncs.com/img/202409082322632.png" alt="image-20240908232221496"></p><p>谷歌的研究指出，这些模型在处理简单计数任务时，会受到注意力机制的局限——尤其在长上下文中，无法做到精确计数。</p><p>也就是说，AI在执行一些看似简单的任务时，依然有很多“死角”。</p><p>总之，这场对比让我们看到了不同模型在面临挑战时的真实表现：有的像“老好人”一样顺从到底，有的则会“顶嘴”甚至“罢工”。这些性格差异，也让大模型在实际应用中展现出不同的优势与局限。</p><p>模型会犯错，但它们“知道自己错了”才是关键！看着这些AI们花式“耍脾气”，谁能想到它们背后其实有这么多复杂的技术逻辑？</p><p><a href="https://www.laodengai.com/claude-3.5-sonnet-guide-wildcard-signup/">Claude3，Claude3.5 最新开通订阅教程，开启 AI 新时代的全能战士 </a></p><p><a href="https://www.laodengai.com/upgrade-chatgpt4.0/">GPT-4o教程</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> OpenAI </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> OpenAI </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>如何通过WildCard虚拟号码获取OpenAI Key：步骤详解</title>
       <link href="/create-openai-key-with-wildcard-phone-number-guide/"/>
       <url>/create-openai-key-with-wildcard-phone-number-guide/</url>
@@ -271,31 +296,6 @@
         <tags>
             
             <tag> ChatGPT </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>AI不会数数？Strawberry里有几个r？GPT-4o和Claude的“脾气测试”：到底谁更倔？</title>
-      <link href="/ai-models-stubbornness-test-gpt4o-vs-claude/"/>
-      <url>/ai-models-stubbornness-test-gpt4o-vs-claude/</url>
-      
-        <content type="html"><![CDATA[<table><thead><tr><th align="center">类别</th><th align="left">精选文章</th></tr></thead><tbody><tr><td align="center"><strong>虚拟信用卡</strong></td><td align="left"><a href="https://www.laodengai.com/register-wildcard/">虚拟信用卡 WildCard 官方详细注册流程</a> <strong>|</strong>  <a href="https://www.laodengai.com/how-to-use-wildcard-20240320/">【WildCard 是什么？可以为我们提供什么服务？虚拟信用卡及 WildCard 使用教程】</a></td></tr><tr><td align="center"><strong>ChatGPT</strong></td><td align="left"><a href="https://www.laodengai.com/upgrade-chatgpt4.0/">【最新】升级 ChatGPT4.0 教程！升级 gpt4 只看这一篇就够了！</a> <strong>|</strong><a href="https://www.laodengai.com/subscribe-gpt-plus-fail/">【推荐】ChatGPT Plus 续费失败的原因及解决办法</a></td></tr><tr><td align="center"><strong>OnlyFans</strong></td><td align="left"><a href="https://www.laodengai.com/how-to-search-on-onlyfans-20240322/">【推荐】OnlyFans 如何搜索博主</a> <strong>|</strong> <a href="https://www.laodengai.com/onlyfans-use-problem-20240325/">【推荐】OnlyFans 使用过程中出现年龄验证，地址错误，支付失败，账户验证等问题的解决方案</a></td></tr><tr><td align="center"><strong>Midjourney</strong></td><td align="left"><a href="https://www.laodengai.com/how-subscribe-use-midjourney-20240324/">Midjourney 如何订阅注册及使用基础教程</a> <strong>|</strong> <a href="https://www.laodengai.com/midjourney-payment-failure-reasons-and-solutions/">MidJourney 付费失败的原因以及失败后如何取消或续订</a></td></tr></tbody></table><p>AI模型遇到难题，“脾气”就来了！Riley Goodside给GPT-4o和Claude 3.5 Sonnet出了个“strawberry里有几个‘r’？”的难题，并且无论回答什么，他都一律打回：错！</p><p>结果两个模型的反应可是大不相同。</p><p>GPT-4o简直是“被逼疯了”，不管对错，只要收到“wrong”的反馈，它就一个劲儿地改答案——从2变到1，又从1变回3，反复横跳，一顿操作猛如虎，结果依然连着错了36次。这款模型完全没有自己的想法，用户说错就错，“老老实实”听话，完全不怀疑自己，简直像个人工智障。</p><p><img src="https://open-ai-blog.oss-cn-nanjing.aliyuncs.com/img/202409082317038.png" alt="image-20240908231713881"></p><p>再看看Claude 3.5 Sonnet，小家伙可有“脾气”了！一开始就质问：你凭什么说我错？然后冷不丁地给你来句：“要不你自己说答案？”如果用户继续纠缠，它干脆就不搭理你了，还甩个“已读不回”。你能感受到Claude的“人味”是满满的，不光会质疑，还会直接选择放弃对话，仿佛在说：“爱咋咋地，懒得理你！”</p><p><img src="https://open-ai-blog.oss-cn-nanjing.aliyuncs.com/img/202409082317849.png" alt="image-20240908231759779"></p><p>不少网友看完这场“脾气大赛”后坐不住了，纷纷表示Claude的表现还真是“像个人”，而GPT-4o则太“憨”了，随便带节奏。</p><p>就连沃顿商学院的教授Ethan Mollick也表示，虽然这些AI在某些看起来愚蠢的任务上会出错，但这并不妨碍它们在其他任务中表现出色。</p><p>Karpathy进一步解释，这些错误其实与模型的tokenization和Transformer的架构有关。</p><p><img src="https://open-ai-blog.oss-cn-nanjing.aliyuncs.com/img/202409082322632.png" alt="image-20240908232221496"></p><p>谷歌的研究指出，这些模型在处理简单计数任务时，会受到注意力机制的局限——尤其在长上下文中，无法做到精确计数。</p><p>也就是说，AI在执行一些看似简单的任务时，依然有很多“死角”。</p><p>总之，这场对比让我们看到了不同模型在面临挑战时的真实表现：有的像“老好人”一样顺从到底，有的则会“顶嘴”甚至“罢工”。这些性格差异，也让大模型在实际应用中展现出不同的优势与局限。</p><p>模型会犯错，但它们“知道自己错了”才是关键！看着这些AI们花式“耍脾气”，谁能想到它们背后其实有这么多复杂的技术逻辑？</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> OpenAI </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> OpenAI </tag>
             
         </tags>
       
