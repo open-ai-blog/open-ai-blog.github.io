@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.laodengai.com/deepl-subscription-guide-wildcard-payment/</loc>
+    
+    <lastmod>2024-09-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.laodengai.com/youtube-premium-subscription-guide-wildcard-virtual-card/</loc>
     
     <lastmod>2024-09-09</lastmod>
@@ -557,6 +566,13 @@
   </url>
   
   <url>
+    <loc>https://www.laodengai.com/tags/DeepL/</loc>
+    <lastmod>2024-09-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.laodengai.com/tags/%E8%99%9A%E6%8B%9F%E4%BF%A1%E7%94%A8%E5%8D%A1/</loc>
     <lastmod>2024-09-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -578,14 +594,14 @@
   </url>
   
   <url>
-    <loc>https://www.laodengai.com/tags/%E8%B0%B7%E6%AD%8Cgmail/</loc>
+    <loc>https://www.laodengai.com/tags/Midjourney/</loc>
     <lastmod>2024-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.laodengai.com/tags/Midjourney/</loc>
+    <loc>https://www.laodengai.com/tags/%E8%B0%B7%E6%AD%8Cgmail/</loc>
     <lastmod>2024-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -676,14 +692,14 @@
   </url>
   
   <url>
-    <loc>https://www.laodengai.com/tags/Onlyfans/</loc>
+    <loc>https://www.laodengai.com/tags/%E5%8D%87%E7%BA%A7ChatGPT4-0/</loc>
     <lastmod>2024-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.laodengai.com/tags/%E5%8D%87%E7%BA%A7ChatGPT4-0/</loc>
+    <loc>https://www.laodengai.com/tags/Onlyfans/</loc>
     <lastmod>2024-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -721,6 +737,13 @@
   
   <url>
     <loc>https://www.laodengai.com/categories/ChatGPT/</loc>
+    <lastmod>2024-09-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.laodengai.com/categories/AI/</loc>
     <lastmod>2024-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
