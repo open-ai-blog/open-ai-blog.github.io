@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.laodengai.com/boost-image-quality-with-midjourney-styles-and-lighting/</loc>
+    <loc>https://www.laodengai.com/ai-writing-tool-showdown-unveiling-the-mystery-of-claude/</loc>
     
     <lastmod>2024-10-07</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://www.laodengai.com/ai-writing-tool-showdown-unveiling-the-mystery-of-claude/</loc>
+    <loc>https://www.laodengai.com/boost-image-quality-with-midjourney-styles-and-lighting/</loc>
     
     <lastmod>2024-10-07</lastmod>
     
@@ -594,7 +594,7 @@
   </url>
   
   <url>
-    <loc>https://www.laodengai.com/tags/Claude/</loc>
+    <loc>https://www.laodengai.com/tags/MidJourney/</loc>
     <lastmod>2024-10-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -608,14 +608,7 @@
   </url>
   
   <url>
-    <loc>https://www.laodengai.com/tags/%E5%9F%9F%E5%90%8D/</loc>
-    <lastmod>2024-10-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.laodengai.com/tags/ChatGPT/</loc>
+    <loc>https://www.laodengai.com/tags/Claude/</loc>
     <lastmod>2024-10-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -629,21 +622,21 @@
   </url>
   
   <url>
+    <loc>https://www.laodengai.com/tags/ChatGPT/</loc>
+    <lastmod>2024-10-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.laodengai.com/tags/%E5%9F%9F%E5%90%8D/</loc>
+    <lastmod>2024-10-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.laodengai.com/tags/Claude3/</loc>
-    <lastmod>2024-10-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.laodengai.com/tags/MidJourney/</loc>
-    <lastmod>2024-10-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.laodengai.com/tags/DeepL/</loc>
     <lastmod>2024-10-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -657,7 +650,7 @@
   </url>
   
   <url>
-    <loc>https://www.laodengai.com/tags/%E5%8D%9A%E5%AE%A2/</loc>
+    <loc>https://www.laodengai.com/tags/DeepL/</loc>
     <lastmod>2024-10-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -665,6 +658,13 @@
   
   <url>
     <loc>https://www.laodengai.com/tags/%E5%BC%80%E6%BA%90/</loc>
+    <lastmod>2024-10-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.laodengai.com/tags/%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2024-10-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -806,14 +806,14 @@
   </url>
   
   <url>
-    <loc>https://www.laodengai.com/categories/%E5%8D%9A%E5%AE%A2/</loc>
+    <loc>https://www.laodengai.com/categories/ChatGPT/</loc>
     <lastmod>2024-10-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.laodengai.com/categories/ChatGPT/</loc>
+    <loc>https://www.laodengai.com/categories/%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2024-10-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
