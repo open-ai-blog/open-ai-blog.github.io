@@ -71,12 +71,12 @@ https://www.laodengai.com/tags/index.html
 https://www.laodengai.com/
 https://www.laodengai.com/tags/AI%E7%BB%98%E7%94%BB/
 https://www.laodengai.com/tags/OpenAI/
-https://www.laodengai.com/tags/Claude/
 https://www.laodengai.com/tags/MidJourney/
-https://www.laodengai.com/tags/AI/
 https://www.laodengai.com/tags/%E5%9F%9F%E5%90%8D/
-https://www.laodengai.com/tags/ChatGPT/
 https://www.laodengai.com/tags/Chatgpt/
+https://www.laodengai.com/tags/AI/
+https://www.laodengai.com/tags/Claude/
+https://www.laodengai.com/tags/ChatGPT/
 https://www.laodengai.com/tags/Claude3/
 https://www.laodengai.com/tags/DeepL/
 https://www.laodengai.com/tags/%E8%99%9A%E6%8B%9F%E4%BF%A1%E7%94%A8%E5%8D%A1/
