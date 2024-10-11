@@ -632,13 +632,6 @@
 
   
   <url>
-    <loc>https://www.laodengai.com/tags/OpenAI/</loc>
-    <lastmod>2024-10-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.laodengai.com/tags/AI%E7%BB%98%E7%94%BB/</loc>
     <lastmod>2024-10-11</lastmod>
     <changefreq>weekly</changefreq>
@@ -654,6 +647,13 @@
   
   <url>
     <loc>https://www.laodengai.com/tags/Claude/</loc>
+    <lastmod>2024-10-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.laodengai.com/tags/OpenAI/</loc>
     <lastmod>2024-10-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -814,14 +814,14 @@
   </url>
   
   <url>
-    <loc>https://www.laodengai.com/tags/Cursor/</loc>
+    <loc>https://www.laodengai.com/tags/Flux/</loc>
     <lastmod>2024-10-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.laodengai.com/tags/Flux/</loc>
+    <loc>https://www.laodengai.com/tags/Cursor/</loc>
     <lastmod>2024-10-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -851,14 +851,14 @@
 
   
   <url>
-    <loc>https://www.laodengai.com/categories/OpenAI/</loc>
+    <loc>https://www.laodengai.com/categories/AI/</loc>
     <lastmod>2024-10-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.laodengai.com/categories/AI/</loc>
+    <loc>https://www.laodengai.com/categories/OpenAI/</loc>
     <lastmod>2024-10-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

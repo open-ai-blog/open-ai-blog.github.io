@@ -68,10 +68,10 @@ https://www.laodengai.com/link/index.html
 https://www.laodengai.com/categories/index.html
 https://www.laodengai.com/tags/index.html
 https://www.laodengai.com/
-https://www.laodengai.com/tags/OpenAI/
 https://www.laodengai.com/tags/AI%E7%BB%98%E7%94%BB/
 https://www.laodengai.com/tags/AI/
 https://www.laodengai.com/tags/Claude/
+https://www.laodengai.com/tags/OpenAI/
 https://www.laodengai.com/tags/MidJourney/
 https://www.laodengai.com/tags/%E5%9F%9F%E5%90%8D/
 https://www.laodengai.com/tags/Chatgpt/
@@ -94,13 +94,13 @@ https://www.laodengai.com/tags/WildCard/
 https://www.laodengai.com/tags/Sora/
 https://www.laodengai.com/tags/Copilot/
 https://www.laodengai.com/tags/Onlyfans/
-https://www.laodengai.com/tags/Cursor/
 https://www.laodengai.com/tags/Flux/
+https://www.laodengai.com/tags/Cursor/
 https://www.laodengai.com/tags/%E5%8D%87%E7%BA%A7ChatGPT4-0/
 https://www.laodengai.com/tags/vpn%E6%A2%AF%E5%AD%90/
 https://www.laodengai.com/tags/%E5%85%B6%E4%BB%96/
-https://www.laodengai.com/categories/OpenAI/
 https://www.laodengai.com/categories/AI/
+https://www.laodengai.com/categories/OpenAI/
 https://www.laodengai.com/categories/%E5%8D%9A%E5%AE%A2/
 https://www.laodengai.com/categories/ChatGPT/
 https://www.laodengai.com/categories/%E9%82%AE%E7%AE%B1/
